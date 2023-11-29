@@ -5,6 +5,11 @@ The following code snippet demonstrates the utilization of Envi-SarScape for Sma
 """Begin by executing the script named 'InSAR_Visualization_main_2.py' followed by running the second script named 'InSAR_Visualization_tkinter_2.py'. This action will prompt the interface to appear. Ensure that you have established an 'Output' folder and provided all required inputs. The subsequent steps in the code will autonomously execute.
 
 Upon completion, the generated products will be available. To create videos from these products, utilize the script labeled 'InSAR_Visualization_for_videos_2.py'."""
+# ----------------------------------------------------------------------------------------------------------
+# For reference please :"KARACA, Ş. O., ERTEN, G., ERGİNTAV, S., KHAN, S. D. (n.d.). Anthropogenic problems threatening major cities: Largest surface deformations observed in Hatay, Turkey based on SBAS-InSAR. Bulletin of the Mineral Research and Exploration1-1."
+# https://doi.org/10.19111/bulletinofmre.1298494
+# ----------------------------------------------------------------------------------------------------------
+"https://dergipark.org.tr/en/pub/bulletinofmre/article/1298494"
 
 ![Hatay_Sbas](https://github.com/onurkaraca87/Envi-SarScape-Modelling/assets/127317839/eb5c31c0-9ff1-461c-adbe-6be23a0358ac)
 
