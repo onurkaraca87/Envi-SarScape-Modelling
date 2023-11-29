@@ -6,6 +6,7 @@ The following code snippet demonstrates the utilization of Envi-SarScape for Sma
 
 Upon completion, the generated products will be available. To create videos from these products, utilize the script labeled 'InSAR_Visualization_for_videos_2.py'."""
 
+![Hatay_Sbas](https://github.com/onurkaraca87/Envi-SarScape-Modelling/assets/127317839/eb5c31c0-9ff1-461c-adbe-6be23a0358ac)
 
 # ----------------------------------------------------------------------------------------------------------
 # This is code for Envi-SarScape SBAS-PS Modelling
